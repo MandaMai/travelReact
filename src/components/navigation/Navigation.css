@@ -1,0 +1,11 @@
+div.container {
+    margin-left: 15px;
+}
+
+span.navbar-brand {
+    margin-left: 20px;
+}
+
+.pullRight-footer {
+    margin-right: -200px;
+}
