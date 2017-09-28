@@ -10,7 +10,7 @@ export default class Card extends Component {
               <Thumbnail src={this.props.imgUrl} alt="242x200">
                 <h3>{this.props.name}</h3>
                 <div class="details">
-                <a href="{this.props.imgUrl}">{this.props.name} Tourism Site</a>
+                <a href={this.props.url}>{this.props.name} Tourism Site</a>
                 </div>
               </Thumbnail>
             </Col>
