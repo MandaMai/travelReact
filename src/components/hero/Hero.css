@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
 img {
     height: 400px;
+}
+
+h3 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    font-family: "Pacifico";
 }
 
